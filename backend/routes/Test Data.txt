@@ -9,3 +9,10 @@
   "email": "nqobile@example.com",
   "password": "mypassword123"
 }
+
+{
+    "referenceId": "ecffeddb-262a-488b-b9fe-d713d7757aec",
+    "status": "pending"
+}
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSMjU2In0.eyJjbGllbnRJZCI6ImM2YWE5NzM4LTdlNmItNGRlNS1hZDhjLTk0N2ZiZGVlMDMyZiIsImV4cGlyZXMiOiIyMDI1LTA5LTEwVDIzOjUyOjMxLjQ3MSIsInNlc3Npb25JZCI6ImJjODViZGViLTUwOTEtNDJmZi1hNTk0LWY3ZGJlNDM3YmQzMiJ9.QpMkmUaFvW_V8W-62kgEOMggIMsjY7atTpJLVsLhLKmvA5iYxlAmItOa4kZX8On31V8AO5pYrwZxVdE-4cA7kWo2VWpRhtTJ7WMAzXvSifzyGB2YWQOUmb7hjU1hvCtyP6-gh9jC6-WWlA1C8XgnYX72Ulg3pEZQ4wzama-06RPygR7i7mhCe4f47Dfy9ydPG6FKLXU98atrpmV9UGu88IyubIhc5UCNvM083ujvGC05iLjZDsfZ2JwuiDcx21O-qMGxvBL-R2BrL64YJW_rhLzfsI2ptE_qN5TdQi07PPe7Xa1IbXlqxLv2kBocfLQ-1cPJNvMx1HPTTJrWXmgKqQ
